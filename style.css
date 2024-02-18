@@ -1,0 +1,25 @@
+*{
+    margin: 5px;
+    padding: 7px;
+    
+}
+body{
+    background-color: rgb(230, 196, 255);
+    
+}
+h1 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+div {
+    background-color:rgb(255, 229, 255);
+    border:1px solid grey;
+}  
+#extraHeader{
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
